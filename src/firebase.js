@@ -2,6 +2,8 @@ import firebase from 'firebase/compat/app';
 import 'firebase/compat/auth';
 import 'firebase/compat/firestore';
 
+
+
 const firebaseConfig = {
     apiKey: "AIzaSyCw9ofkdtO8trpxY4vFNl3yVKrv0OwFe-E",
     authDomain: "whatsappclone-ff0eb.firebaseapp.com",
