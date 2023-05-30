@@ -17,6 +17,7 @@ function Chat() {
   const sendMessage =(e)=>{
     e.preventDefault()
     console.log("obj",input)
+    setInput("")
   }
   return (
     <div className="chat">
